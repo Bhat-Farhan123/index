@@ -1,0 +1,29 @@
+div {height: 200px;
+    
+    background-image: url(grid8.jpeg);
+    background-repeat: no-repeat;
+    border-radius: 90% 90%;
+
+    
+}
+
+#one{
+    padding-left: 320px;
+    padding-top: 20px;
+    text-decoration:overline;
+    
+    
+
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(0, 0, 255);
+    text-shadow: 1px 1px 10px rgb(24, 22, 19);
+}
+
+h1{
+    font-size: large;
+
+}
